@@ -13,7 +13,6 @@ bugday=1
 
 for i in range(64):
     bugday=i*2
-    print(i,"."," Gün için",bugday)
-
+    print(f"{i}. Gün için {bugday}")
 
 print(f"64. Günün sonunda {bugday} kadar bugday gerek.")
