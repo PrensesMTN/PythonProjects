@@ -1,5 +1,5 @@
-# PythonProjects
+# PYTHON PROJELERİ
+Python derslerinde yaptığım çalışmları bu repoda saklayacağım.
 
-Haftalık olarak [Gökhan Su](http://www.gokhansu.com) python görevleri verecektir. Bu repositoryi verilen görevler ve kaynak kodlarını biriktirmek için kullanacağım.
-
-
+## Kodları Kullanmak için
+Bilgisayarında Python IDLE bulunan herkes kodları yükleyip çıktılarını alabilir.
